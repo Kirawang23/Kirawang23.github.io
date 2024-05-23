@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 
 Hello, I'm Meiyun Wang. Currently, I am a 2nd year PhD student in the [Department of Systems Innovation](http://www.sys.t.u-tokyo.ac.jp/en/), [School of Engineering](https://www.t.u-tokyo.ac.jp/en/soe), at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
-About Me
+Research Interest
 ======
-<a id="about-me"></a>
+<a id="research-interest"></a>
 
 My research interests are diverse, focusing on:
 - **Financial NLP**: Exploring the intersection of finance and natural language processing to derive actionable insights. 💹
