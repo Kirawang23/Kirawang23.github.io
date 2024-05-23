@@ -33,17 +33,18 @@ Feel free to explore my latest research and publications. Let's connect and delv
 LLMFactor (ACL Findings)
 ------
 
-<div style="display: flex; align-items: flex-start; border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 10px;">
-  <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="margin-right: 20px; width: 50%; height: auto;">
-  <div style="width: 50%;">
+<div style="border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
+  <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="width: 100%; height: auto; margin-bottom: 10px;">
+  <div>
     <h4><a href="#">LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a></h4>
     <p>Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji</p>
     <ul>
       <li>In this study, we introduce a novel framework called LLMFactor, which employs Sequential Knowledge-Guided Prompting (SKGP) to identify factors that influence stock movements using LLMs.</li>
     </ul>
-    <p><strong>Citation:</strong> [1] Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji, LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction, Findings of the Association for Computational Linguistics: ACL, 2024. (got my first ACL🎉)</p>
+    <p><strong>Citation:</strong> [1] Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji, LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction, Findings of the Association for Computational Linguistics: ACL, 2024.</p>
   </div>
 </div>
+
 
 
 
