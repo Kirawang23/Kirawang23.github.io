@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to Mei's Research World! 🌟
-======
 
-Hello, I'm Meiyun Wang (you can call me Mei 😊). Currently, I am a 2nd year PhD student in the [Department of Systems Innovation](http://www.sys.t.u-tokyo.ac.jp/en/), [School of Engineering](https://www.t.u-tokyo.ac.jp/en/soe), at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
+Hello, I'm Meiyun Wang. Currently, I am a 2nd year PhD student in the [Department of Systems Innovation](http://www.sys.t.u-tokyo.ac.jp/en/), [School of Engineering](https://www.t.u-tokyo.ac.jp/en/soe), at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
-About Me 
+About Me
 ======
 
 My research interests are diverse, focusing on:
@@ -58,10 +56,16 @@ LLMFactor (ACL Findings)
   </li>
 </ul>
 
+📖 Educations
+======
 
+- **2022.09 - 2025.09**: PhD, The University of Tokyo, Japan.
+- **2020.04 - 2022.09**: Master, The University of Tokyo, Japan.
+- **2015.09 - 2019.06**: Undergraduate, Tianjin Foreign Studies University, China.
 
+💻 Internships
+======
 
-
-
-
-
+- **2024.01 - 2023.11**: Mizuho, Tokyo.
+- **2023.08 - 2023.09**: Morgan Stanley, Tokyo.
+- **2020.11 - 2021.08**: Tencent, Shenzhen.
