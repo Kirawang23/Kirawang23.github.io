@@ -36,17 +36,27 @@ LLMFactor (ACL Findings)
 <div style="border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
   <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="width: 100%; height: auto; margin-bottom: 10px;">
   <div>
-    <h4><a href="#">LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a></h4>
-    <p>Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji</p>
+    <h4><a href="https://example.com/llmfactor">LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a></h4>
     <ul>
       <li>In this study, we introduce a novel framework called LLMFactor, which employs Sequential Knowledge-Guided Prompting (SKGP) to identify factors that influence stock movements using LLMs.</li>
     </ul>
-    <p><strong>Citation:</strong> [1] Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji, LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction, Findings of the Association for Computational Linguistics: ACL, 2024.</p>
+    <p><strong>Citation:</strong> [1] <strong>Meiyun Wang</strong>, Kiyoshi Izumi, Hiroki Sakaji, LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction, <em>Findings of the Association for Computational Linguistics: ACL</em>, 2024.</p>
   </div>
 </div>
 
+------
 
-
+<ul>
+  <li>
+    <strong>WPI 2023</strong>: <a href="https://www.sciencedirect.com/science/article/pii/S0172219023000686">Discovering new applications: Cross-domain exploration of patent documents using causal extraction and similarity analysis</a>, <strong>Meiyun Wang</strong>, Hiroki Sakaji, Hiroaki Higashitani, Mitsuhiro Iwadare, and Kiyoshi Izumi, <em>World Patent Information</em>, 75:102238, 2023. <a href="https://github.com/Kirawang23/PatentCausality"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 23px; height: 23px; vertical-align: middle;"> </a>
+  </li>
+  <li>
+    <strong>JSAI 2023</strong>: <a>New Intellectual Property Management Method Aiming at Expanding Technology Applications and Secondary Development</a>, <strong>Meiyun Wang</strong>, et al, <em>The 37th Annual Conference of the Japanese Society for Artificial Intelligence</em>, 2023.
+  </li>
+  <li>
+    <strong>ICAIF 2022</strong>: <a>A New Approach to Assessing Corporate R&D Capabilities: Exploring Patent Value Based on Machine Learning</a>, <strong>Meiyun Wang</strong>, et al, <em>3rd Workshop on Women in AI and Finance, 3rd ACM International Conference on AI in Finance</em>, New York, USA, Nov 2nd, 2022.
+  </li>
+</ul>
 
 
 
