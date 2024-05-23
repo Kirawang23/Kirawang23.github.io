@@ -39,7 +39,7 @@ LLMFactor (ACL Findings)
 <div style="border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
   <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="width: 100%; height: auto; margin-bottom: 10px;">
   <div>
-    <h4><a href="https://example.com/llmfactor">LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a></h4>
+    <a>LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a>
     <ul>
       <li>In this study, we introduce a novel framework called LLMFactor, which employs Sequential Knowledge-Guided Prompting (SKGP) to identify factors that influence stock movements using LLMs.</li>
     </ul>
