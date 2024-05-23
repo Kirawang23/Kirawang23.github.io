@@ -73,6 +73,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 ======
 <a id="internships"></a>
 
-- **2024.01 - 2023.11**: Mizuho, Tokyo.
-- **2023.08 - 2023.09**: Morgan Stanley, Tokyo.
+- **2023.11 - 2024.01**: Mizuho, Tokyo.
+- **2022.04 - 2022.07**: Google STEP, Tokyo.
 - **2020.11 - 2021.08**: Tencent, Shenzhen.
+- **2020.08 - 2020.11**: PingAn, Shenzhen.
