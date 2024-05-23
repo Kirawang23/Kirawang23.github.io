@@ -25,7 +25,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 
 🔥 News
 ======
-- **2024.05**: 🎉 One paper is accepted by [ACL 2024](https://2024.aclweb.org/)
+- **2024.05**: 🎉 One paper is accepted by [ACL 2024](https://2024.aclweb.org/) (first author)
 
 📝 Publications
 ======
@@ -33,17 +33,18 @@ Feel free to explore my latest research and publications. Let's connect and delv
 LLMFactor (ACL Findings)
 ------
 
-<div style="display: flex; align-items: flex-start; border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
-  <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="margin-right: 20px; width: 45%; height: auto;">
-  <div style="width: 55%;">
+<div style="display: flex; align-items: flex-start; border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 10px;">
+  <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="margin-right: 20px; width: 50%; height: auto;">
+  <div style="width: 50%;">
     <h4><a href="#">LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a></h4>
     <p>Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji</p>
     <ul>
       <li>In this study, we introduce a novel framework called LLMFactor, which employs Sequential Knowledge-Guided Prompting (SKGP) to identify factors that influence stock movements using LLMs.</li>
     </ul>
-    <p><strong>Citation:</strong> [1] Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji, LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction, Findings of the Association for Computational Linguistics: ACL, 2024.</p>
+    <p><strong>Citation:</strong> [1] Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji, LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction, Findings of the Association for Computational Linguistics: ACL, 2024. (got my first ACL🎉)</p>
   </div>
 </div>
+
 
 
 
