@@ -30,22 +30,23 @@ Feel free to explore my latest research and publications. Let's connect and delv
 📝 Publications
 ======
 
-🎙 LLMFactor
+LLMFactor (ACL Findings)
 ------
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="path_to_your_image.jpg" alt="FastSpeech Diagram" style="margin-right: 20px; max-width: 300px;">
-  <div>
-    <h4><a href="https://nips.cc/">FastSpeech: Fast, Robust and Controllable Text to Speech</a></h4>
-    <p>Yi Ren, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu</p>
-    <p><a href="#">Project</a> | Citations: 1035</p>
+<div style="display: flex; align-items: flex-start; border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
+  <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="margin-right: 20px; width: 45%; height: auto;">
+  <div style="width: 55%;">
+    <h4><a href="#">LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a></h4>
+    <p>Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji</p>
     <ul>
-      <li><strong>FastSpeech</strong> is the first fully parallel end-to-end speech synthesis model.</li>
-      <li><strong>Academic Impact</strong>: This work is included by many famous speech synthesis open-source projects, such as <a href="https://github.com/espnet/espnet">ESPNet</a>. Our work has been promoted by more than 20 media and forums, such as 机器之心 and InfoQ.</li>
-      <li><strong>Industry Impact</strong>: FastSpeech has been deployed in <a href="https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/">Microsoft Azure TTS</a> service, supporting 49 languages with state-of-the-art AI quality. It was also showcased as a text-to-speech system acceleration example at <a href="https://www.nvidia.com/gtc/">NVIDIA GTC2020</a>.</li>
+      <li>In this study, we introduce a novel framework called LLMFactor, which employs Sequential Knowledge-Guided Prompting (SKGP) to identify factors that influence stock movements using LLMs.</li>
     </ul>
+    <p><strong>Citation:</strong> [1] Meiyun Wang, Kiyoshi Izumi, Hiroki Sakaji, LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction, Findings of the Association for Computational Linguistics: ACL, 2024.</p>
   </div>
 </div>
+
+
+
 
 
 
