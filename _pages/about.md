@@ -10,9 +10,9 @@ redirect_from:
 
 Hello, I'm Meiyun Wang. Currently, I am a 2nd year PhD student in the [Department of Systems Innovation](http://www.sys.t.u-tokyo.ac.jp/en/), [School of Engineering](https://www.t.u-tokyo.ac.jp/en/soe), at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
-Research Interest
-======
 <a id="research-interest"></a>
+💡 Research Interest
+======
 
 My research interests are diverse, focusing on:
 - **Financial NLP**: Exploring the intersection of finance and natural language processing to derive actionable insights. 💹
@@ -23,15 +23,15 @@ My research interests are diverse, focusing on:
 
 Feel free to explore my latest research and publications. Let's connect and delve into the fascinating world of data and innovation together! 🌐
 
+<a id="news"></a>
 🔥 News
 ======
-<a id="news"></a>
 
 - **2024.05**: 🎉 One paper is accepted by [ACL 2024](https://2024.aclweb.org/) (first author)
 
+<a id="publications"></a>
 📝 Publications
 ======
-<a id="publications"></a>
 
 [ACL 2024] LLMFactor 
 ------
@@ -61,26 +61,26 @@ Feel free to explore my latest research and publications. Let's connect and delv
   </li>
 </ul>
 
+<a id="honors"></a>
 🎖 Honors
 ======
-<a id="honors"></a>
+
 - **2024 ~ 2025**: <a href = "https://www.cis-trans.jp/spring_gx/index-e.html">Fostering Advanced Human Resources to Lead Green Transformation (SPRING GX)</a>, The University of Tokyo.
 - **2023 ~ 2025**: <a href = "https://gsdm.u-tokyo.ac.jp/gsdm2.0/en/wings-gsdm/">World-leading Innovative Graduate Study Program on Global Leadership for Social Design and Management (WINGS-GSDM)</a>, The University of Tokyo.
 - **2023 ~ 2025**: Data Science Practicum, The University of Tokyo.
 - **2023 ~ 2025**: Designing Future Society Fellowship, The University of Tokyo.
 
-
+<a id="educations"></a>
 📖 Educations
 ======
-<a id="educations"></a>
 
 - **2022.09 - 2025.09**: PhD, The University of Tokyo, Japan.
 - **2020.04 - 2022.09**: Master, The University of Tokyo, Japan.
 - **2015.09 - 2019.06**: Undergraduate, Tianjin Foreign Studies University, China.
 
+<a id="internships"></a>
 💻 Internships
 ======
-<a id="internships"></a>
 
 - **2023.11 - 2024.01**: Mizuho, Tokyo.
 - **2022.04 - 2022.07**: Google STEP, Tokyo.
