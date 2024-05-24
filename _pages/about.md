@@ -11,7 +11,9 @@ redirect_from:
 Hello, I'm Meiyun Wang. Currently, I am a 2nd year PhD student in the [Department of Systems Innovation](http://www.sys.t.u-tokyo.ac.jp/en/), [School of Engineering](https://www.t.u-tokyo.ac.jp/en/soe), at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
 
-<a id="research-interest">💡 Research Interest</a>
+<a id="research-interest"></a>
+
+💡 Research Interest
 ======
 
 My research interests are diverse, focusing on:
@@ -23,13 +25,16 @@ My research interests are diverse, focusing on:
 
 Feel free to explore my latest research and publications. Let's connect and delve into the fascinating world of data and innovation together! 🌐
 
+<a id="news"></a>
 
-<a id="news">🔥 News</a>
+🔥 News
 ======
 
 - **2024.05**: 🎉 One paper is accepted by [ACL 2024](https://2024.aclweb.org/) (first author)
 
-<a id="publications">📝 Publications</a>
+<a id="publications"></a>
+
+📝 Publications
 ======
 
 [ACL 2024] LLMFactor 
@@ -61,6 +66,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 </ul>
 
 <a id="honors"></a>
+
 🎖 Honors
 ======
 
@@ -70,6 +76,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 - **2023 ~ 2025**: Designing Future Society Fellowship, The University of Tokyo.
 
 <a id="educations"></a>
+
 📖 Educations
 ======
 
@@ -78,6 +85,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 - **2015.09 - 2019.06**: Undergraduate, Tianjin Foreign Studies University, China.
 
 <a id="internships"></a>
+
 💻 Internships
 ======
 
