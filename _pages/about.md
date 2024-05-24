@@ -61,6 +61,15 @@ Feel free to explore my latest research and publications. Let's connect and delv
   </li>
 </ul>
 
+🎖 Honors
+======
+<a id="honors"></a>
+- **2024 ~ 2025**: <a href = "https://www.cis-trans.jp/spring_gx/index-e.html">Fostering Advanced Human Resources to Lead Green Transformation (SPRING GX)</a>, The University of Tokyo.
+- **2023 ~ 2025**: <a href = "https://gsdm.u-tokyo.ac.jp/gsdm2.0/en/wings-gsdm/">World-leading Innovative Graduate Study Program on Global Leadership for Social Design and Management (WINGS-GSDM)</a>, The University of Tokyo.
+- **2023 ~ 2025**: Data Science Practicum, The University of Tokyo.
+- **2023 ~ 2025**: Designing Future Society Fellowship, The University of Tokyo.
+
+
 📖 Educations
 ======
 <a id="educations"></a>
