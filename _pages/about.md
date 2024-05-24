@@ -12,7 +12,7 @@ Hello, I'm Meiyun Wang. Currently, I am a 2nd year PhD student in the [Departmen
 
 
 💡 Research Interest
-======
+========
 <a id="research-interest"></a>
 
 My research interests are diverse, focusing on:
@@ -25,18 +25,18 @@ My research interests are diverse, focusing on:
 Feel free to explore my latest research and publications. Let's connect and delve into the fascinating world of data and innovation together! 🌐
 
 🔥 News
-======
+========
 <a id="news"></a>
 
 - **2024.05**: 🎉 One paper is accepted by [ACL 2024](https://2024.aclweb.org/) (first author)
 
 
 📝 Publications
-======
+========
 <a id="publications"></a>
 
 [ACL 2024] LLMFactor 
-------
+--------
 
 <div style="border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
   <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="width: 100%; height: auto; margin-bottom: 10px;">
@@ -49,7 +49,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
   </div>
 </div>
 
-------
+--------
 
 <ul>
   <li>
@@ -65,7 +65,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 
 
 🎖 Honors
-======
+========
 <a id="honors"></a>
 
 - **2024 ~ 2025**: <a href = "https://www.cis-trans.jp/spring_gx/index-e.html">Fostering Advanced Human Resources to Lead Green Transformation (SPRING GX)</a>, The University of Tokyo.
@@ -75,7 +75,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 
 
 📖 Educations
-======
+========
 <a id="educations"></a>
 
 - **2022.09 - 2025.09**: PhD, The University of Tokyo, Japan.
@@ -84,7 +84,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 
 
 💻 Internships
-======
+========
 <a id="internships"></a>
 
 - **2023.11 - 2024.01**: Mizuho, Tokyo.
