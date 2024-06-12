@@ -14,11 +14,11 @@ Hello, I'm Meiyun Wang. Currently, I am a 2nd year PhD student in the [Departmen
 <a id="research-interest"></a>
 
 My research interests are diverse, focusing on:
-- **Financial NLP**: Exploring the intersection of finance and natural language processing to derive actionable insights. 💹
 - **Data Mining**: Uncovering patterns and knowledge from vast datasets. 🧠
 - **Causal Inference**: Understanding and establishing cause-and-effect relationships in data. 🔍
 - **Large Language Models**: Working with state-of-the-art models to push the boundaries of what's possible with AI and NLP. 🤖
 - **Knowledge Distillation**: Transferring knowledge from large models to smaller, efficient ones without significant loss of performance. 📉
+- **Financial Informatics**: Exploring the intersection of finance and natural language processing to derive actionable insights. 💹
 
 Feel free to explore my latest research and publications. Let's connect and delve into the fascinating world of data and innovation together! 🌐
 
