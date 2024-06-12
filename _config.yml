@@ -24,7 +24,7 @@ author:
   avatar           : "../images/profile.png"
   name             : "Meiyun Wang"
   pronouns         : # example: "she/her"  
-  bio              : "I am currently pursuing a PhD in Financial Informatics, focusing on Large Language Models and Financial NLP."
+  bio              : "I am currently pursuing a PhD in Financial Informatics, focusing on Large Language Models and NLP."
   location         : "Tokyo"
   employer         : "The University of Tokyo"
   uri              : # URL
