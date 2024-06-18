@@ -30,7 +30,7 @@ Feel free to explore my latest research and publications. Let's connect and delv
 ## 📝 Publications
 <a id="publications"></a>
 
-<strong>[ACL(Findings) 2024] <a href = "https://arxiv.org/pdf/2406.10811">  LLMFactor</strong>
+<strong>[ACL(Findings) 2024] <a href = "https://arxiv.org/pdf/2406.10811">  LLMFactor
 
 <div style="border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
   <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="width: 100%; height: auto; margin-bottom: 10px;">
