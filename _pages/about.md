@@ -30,12 +30,12 @@ Feel free to explore my latest research and publications. Let's connect and delv
 ## 📝 Publications
 <a id="publications"></a>
 
-<strong>[ACL(Findings) 2024] <a href = "https://arxiv.org/pdf/2406.10811">  LLMFactor
+<strong>[ACL 2024] LLMFactor
 
 <div style="border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
   <img src="../images/ACL_Findings.jpg" alt="LLMFactor" style="width: 100%; height: auto; margin-bottom: 10px;">
   <div>
-    <a>LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a>
+    <a href = "https://arxiv.org/pdf/2406.10811"> LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a>
     <ul>
       <li>In this study, we introduce a novel framework called LLMFactor, which employs Sequential Knowledge-Guided Prompting (SKGP) to identify factors that influence stock movements using LLMs.</li>
     </ul>
