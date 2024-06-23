@@ -68,7 +68,6 @@ Feel free to explore my latest research and publications. Let's connect and delv
 
 - **2022.09 - 2025.09**: PhD, The University of Tokyo, Japan.
 - **2020.04 - 2022.09**: Master, The University of Tokyo, Japan.
-- **2015.09 - 2019.06**: Undergraduate, Tianjin Foreign Studies University, China.
 
 ## 💻 Internships
 <a id="internships"></a>
