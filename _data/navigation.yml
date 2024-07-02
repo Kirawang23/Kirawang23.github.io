@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: /#about-me
 
-  - title: "Research Interests"
+  - title: "Research Focus"
     url: /#research-interest
 
   - title: "News"
@@ -14,9 +14,6 @@ main:
 
   - title: "Honors"
     url: /#honors
-        
-  - title: "Educations"
-    url: /#educations
     
   - title: "Internships"
     url: /#internships
