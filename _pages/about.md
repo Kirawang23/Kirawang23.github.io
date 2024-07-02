@@ -76,7 +76,7 @@ Hello, I'm Meiyun Wang. Currently, I am a 2nd-year PhD student in the [Departmen
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-              <a href>CausalEnhance: Knowledge-Enhanced Pre-training for Causality Identification and Extraction</a>
+              <a style="text-decoration: none;">CausalEnhance: Knowledge-Enhanced Pre-training for Causality Identification and Extraction</a>
                 <ul>
                     <li>We introduce CausalEnhance, a novel knowledge-enhanced pre-training method empowered by a rule-based automated annotation system.</li>
                   <li><strong>Meiyun Wang</strong>, Kiyoshi Izumi, Hiroki Sakaji.</li>
