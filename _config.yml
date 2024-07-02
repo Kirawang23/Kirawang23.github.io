@@ -24,7 +24,7 @@ author:
   avatar           : "../images/profile.png"
   name             : "Meiyun Wang"
   pronouns         : # example: "she/her"  
-  bio              : "I am currently pursuing a PhD in Systems Innovation, focusing on Large Language Models and NLP."
+  bio              : "I am currently pursuing a PhD in Systems Innovation, focusing on explainable, trustworthy, and applicable AI."
   location         : "Tokyo"
   employer         : "The University of Tokyo"
   uri              : # URL
