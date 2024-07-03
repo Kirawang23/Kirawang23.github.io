@@ -39,7 +39,7 @@ Hello, I'm Meiyun Wang. Currently, I am a 2nd-year PhD student in the [Departmen
 
 ## 🔥 News
 <a id="news"></a>
-- **2024.07**: I will join **Amazon Science** as a **Data Scientist Fellow** working on applying large language models (LLM) to customer recommendation problems this summer.
+- **2024.07**: I will join **Amazon Science** as a **Data Scientist Fellow** working on applying large language models (LLMs) to customer recommendation problems this summer.
 - **2024.05**: 🎉 One paper is accepted by [ACL 2024](https://2024.aclweb.org/) (first author)
 
 
